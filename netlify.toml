@@ -1,4 +1,3 @@
 [build]
-  publish = "dist"
+  publish = ".next"
   command = "npm run export"
-  distDir = 'dist'
